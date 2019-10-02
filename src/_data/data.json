@@ -1,0 +1,26 @@
+{
+    "copy"           : "WebsiteMarket", 
+    "email"          : "hello@websitemarket.ro",
+    "design"         : "Highlights by Html5 UP",
+
+    "app_title"      : "Site Consultant Iasi",
+
+    "seo_title"      : "Site Web Iasi Consultant - Site Prezentare | WebsiteMarket",
+    "seo_desc"       : "Site prezentare activitate consultant in Iasi. Un produs comercial open-source WebsiteMarket",
+
+    "product"        : "https://websitemarket.ro", 
+    "github"         : "https://github.com/creare-site/site-web-iasi-consultant",
+    "github_group"   : "https://github.com/creare-site",
+
+    "docs"           : "https://websitemarket.ro/",
+    "appseed"        : "https://appseed.us",      
+    "generator"      : "https://appseed.us/app-generator",
+    "blog"           : "https://blog.websitemarket.ro/",
+    "facebook"       : "https://www.facebook.com/Websitemarketro/",
+    "twitter"        : "https://twitter.com/websitemarketro/",
+    "instagram"      : "https://websitemarket.ro",
+    "support"        : "https://websitemarket.ro",
+    "discord"        : "https://discord.gg/fZC6hup",
+
+    "LAST_KEY" : "NA"
+}
